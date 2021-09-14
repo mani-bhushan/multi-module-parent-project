@@ -5,9 +5,7 @@
 		<artifactId>Multi-Module-Parent-Project</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>Employees-API</artifactId>
-	<name>Employees-API</name>
-	<description>Employees API</description>
+	<artifactId>UserBase-API</artifactId>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>

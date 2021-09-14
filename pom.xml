@@ -13,6 +13,7 @@
 		<module>Messaging-JMS</module>
 		<module>Employees-API</module>
 		<module>Address-API</module>
+		<module>UserBase-API</module>
 	</modules>
 	<dependencies>
 
